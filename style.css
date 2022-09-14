@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+}
+
+.color {
+    background-color: rgb(16, 97, 70);
+    color: white;
+    margin: 5px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+}
+
+.col {
+    flex: 1;
+}
+
+.col2 {
+    flex: 2;
+}
+
+.col3 {
+    flex: 3;
+}
